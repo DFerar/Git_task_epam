@@ -1,0 +1,25 @@
+From 41c8d1149413c065bdb0ca1a5ac07e0d97af2b1c Mon Sep 17 00:00:00 2001
+From: DenisFerar <mr.ferar@gmail.com>
+Date: Sun, 25 Feb 2024 15:12:39 +0400
+Subject: [PATCH] Updated 1st file
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..9baf85e 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+ 1
+-2
+-3
++2 kek
++3 kekw
+ 4
+ 5
+ 6
+-- 
+2.34.1
+
