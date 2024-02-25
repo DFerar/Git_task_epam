@@ -1,8 +1,13 @@
 1
+<<<<<<< HEAD
 2 2nd line
 3 3rd line
-4
-5
+=======
+2 
+3
+>>>>>>> git_2
+4 4th line
+5 5th line
 6
 7
 8
