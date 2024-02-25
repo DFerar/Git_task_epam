@@ -3,8 +3,16 @@
 3 kekw
 4 lol
 5 keklol
-6
-7
+<<<<<<< HEAD
+6 6th
+7 7th
 8 8th
 9 9th
 10 10th
+=======
+6 
+7 
+8
+9
+10
+>>>>>>> 5339c4a5dcb40854678d1cfd28ba082efd494d0d
